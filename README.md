@@ -1,4 +1,8 @@
 # Kaggle_ISIC_2024
+## Collaborators
+
+| [Ioannis Demetriades](https://github.com/IoannisDem) | [Marios Kyriacou](https://github.com/marioskyriacou)|
+|:---------------------------------:|:---------------------------------:|
 
 The Kaggle competition for Skin Cancer Detection, utilizing the ISIC-2024 dataset, was divided into two phases:
 (a) image classification and (b) tabular data classification. In the tabular phase, an XGBoost (XGB) model
